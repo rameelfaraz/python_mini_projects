@@ -1,0 +1,207 @@
+{
+    "students": [
+        {
+            "name": "Ali Khan",
+            "marks": 85,
+            "grade": "A"
+        },
+        {
+            "name": "Sara Ahmed",
+            "marks": 92,
+            "grade": "A+"
+        },
+        {
+            "name": "Ahmed Raza",
+            "marks": 58,
+            "grade": "D"
+        },
+        {
+            "name": "Hina Fatima",
+            "marks": 76,
+            "grade": "B"
+        },
+        {
+            "name": "Usman Tariq",
+            "marks": 67,
+            "grade": "C"
+        },
+        {
+            "name": "Ayesha Noor",
+            "marks": 88,
+            "grade": "A"
+        },
+        {
+            "name": "Bilal Hassan",
+            "marks": 95,
+            "grade": "A+"
+        },
+        {
+            "name": "Fatima Zahra",
+            "marks": 73,
+            "grade": "B"
+        },
+        {
+            "name": "Zain Ali",
+            "marks": 81,
+            "grade": "A"
+        },
+        {
+            "name": "Mariam Aslam",
+            "marks": 60,
+            "grade": "C"
+        },
+        {
+            "name": "Hamza Iqbal",
+            "marks": 49,
+            "grade": "F"
+        },
+        {
+            "name": "Noor Javed",
+            "marks": 90,
+            "grade": "A+"
+        },
+        {
+            "name": "Hassan Malik",
+            "marks": 78,
+            "grade": "B"
+        },
+        {
+            "name": "Iqra Bibi",
+            "marks": 84,
+            "grade": "A"
+        },
+        {
+            "name": "Talha Mehmood",
+            "marks": 69,
+            "grade": "C"
+        },
+        {
+            "name": "Laiba Tariq",
+            "marks": 97,
+            "grade": "A+"
+        },
+        {
+            "name": "Daniyal Shah",
+            "marks": 55,
+            "grade": "D"
+        },
+        {
+            "name": "Sana Khalid",
+            "marks": 87,
+            "grade": "A"
+        },
+        {
+            "name": "Abdullah Rehman",
+            "marks": 91,
+            "grade": "A+"
+        },
+        {
+            "name": "Mehwish Akram",
+            "marks": 64,
+            "grade": "C"
+        },
+        {
+            "name": "Taha Yousaf",
+            "marks": 72,
+            "grade": "B"
+        },
+        {
+            "name": "Anaya Sheikh",
+            "marks": 83,
+            "grade": "A"
+        },
+        {
+            "name": "Saad Qureshi",
+            "marks": 59,
+            "grade": "D"
+        },
+        {
+            "name": "Eman Rauf",
+            "marks": 94,
+            "grade": "A+"
+        },
+        {
+            "name": "Huzaifa Siddiqui",
+            "marks": 66,
+            "grade": "C"
+        },
+        {
+            "name": "Komal Ijaz",
+            "marks": 80,
+            "grade": "A"
+        },
+        {
+            "name": "Rayan Farooq",
+            "marks": 74,
+            "grade": "B"
+        },
+        {
+            "name": "Nimra Saleem",
+            "marks": 62,
+            "grade": "C"
+        },
+        {
+            "name": "Arham Butt",
+            "marks": 89,
+            "grade": "A"
+        },
+        {
+            "name": "Rabia Nadeem",
+            "marks": 53,
+            "grade": "D"
+        },
+        {
+            "name": "Areeba Javed",
+            "marks": 77,
+            "grade": "B"
+        },
+        {
+            "name": "Shayan Asif",
+            "marks": 68,
+            "grade": "C"
+        },
+        {
+            "name": "Minal Tariq",
+            "marks": 93,
+            "grade": "A+"
+        },
+        {
+            "name": "Fahad Khan",
+            "marks": 71,
+            "grade": "B"
+        },
+        {
+            "name": "Dua Imran",
+            "marks": 86,
+            "grade": "A"
+        },
+        {
+            "name": "Yahya Bashir",
+            "marks": 57,
+            "grade": "D"
+        },
+        {
+            "name": "Zoya Ali",
+            "marks": 82,
+            "grade": "A"
+        },
+        {
+            "name": "Sameer Raza",
+            "marks": 61,
+            "grade": "C"
+        },
+        {
+            "name": "Mahnoor Ashraf",
+            "marks": 96,
+            "grade": "A+"
+        },
+        {
+            "name": "Adeel Hussain",
+            "marks": 79,
+            "grade": "B"
+        }
+    ],
+    "average": 76.025,
+    "highest": 97,
+    "lowest": 49
+}
